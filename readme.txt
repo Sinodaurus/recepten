@@ -1,2 +1,3 @@
 Dit project is een website met lekkere recepten.
-Per recept worden ingrediënten, foto en werkwijze vermeld.
+Per recept worden ingrediï¿½nten, foto en werkwijze vermeld.
+b lablaieieie
